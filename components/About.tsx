@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export default function About() {
   return (
-    <section id="about" className="pt-10 pb-24 px-6 relative overflow-hidden">
+    <section id="about" className="pt-20 pb-24 px-6 relative overflow-hidden">
       {/* Watermark */}
       <div
         aria-hidden

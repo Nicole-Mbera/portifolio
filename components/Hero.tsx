@@ -13,7 +13,7 @@ export default function Hero() {
   return (
     <section
       id="hero"
-      className="flex flex-col pt-20 px-6 overflow-hidden relative"
+      className="min-h-screen flex flex-col pt-32 px-6 overflow-hidden relative"
     >
       <div className="max-w-6xl mx-auto w-full pt-10 pb-6">
         {/* Top row: name (left) + photo (right) */}
